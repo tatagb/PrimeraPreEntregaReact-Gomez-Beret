@@ -1,0 +1,56 @@
+* { 
+  margin: 0; 
+  padding: 0; 
+}
+
+/* ----------FONDO------------ */
+#fondo {
+width: 100%;
+}
+
+/* ------------NAVBAR---------------- */
+.titulo {
+color: pink;
+margin-right: 375px;
+font-size: larger;
+font-style:italic;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+}
+
+.dropdown-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#collasible-nav-dropdown {
+  color: white;
+  font-size: larger;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* -----CART WIDGET-------- */
+
+#CartWidget {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+#NumeroContador {
+  color: white;
+}
+
+/* ------ITEM LIST CONTAINER------------- */
+#saludo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+  font-size: x-large;
+  color: #C04CFD;
+  font-weight: bolder;
+  background-color: rgb(32, 12, 34);
+}
