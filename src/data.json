@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "price": 520000,
+      "description":
+        "Guitarra eléctrica Fender Player Stratocaster",
+      "stock": 3,
+      "category": "Guitarras",
+      "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/239180-900-900/509770-Fender-Limited-Edition-Player-Stratocaster-HSS-Plus-Top-Electric-Guitar-in-Blue-Burst-2.jpg?v=637992004122500000",
+      "detalle":"Esta guitarra ha marcado un hito en la historia de la música y es una de las guitarras eléctricas más populares y más imitadas de la historia. Esto se debe a los muchos elementos que su fabricante inicialmente incorporó en ella y también a la aceptación que ha tenido entre los mejores guitarristas del mundo. Las palabras para definirlas son: excelencia, evolución, innovación, tradición y versatilidad."
+    },
+    {
+      "id": 2,
+      "price": 265000,
+      "description":
+        "Guitarra eléctica Epiphone Modern SG Classic Worn",
+      "stock": 8,
+      "category": "Guitarras",
+      "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/240914-900-900/Sin-titulo-1-02.jpg?v=638087499832370000",
+      "detalle":""
+    },
+    {
+      "id": 3,
+      "price": 110000,
+      "description":
+        "Guitarra acústica Epiphone DR-100",
+      "stock": 15,
+      "category": "Guitarras",
+      "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/240832-900-900/Encordado_ernie_TECNICA-02.jpg?v=638083932906500000",
+      "detalle":""
+    },
+    {
+        "id": 4,
+        "price": 1600000,
+        "description":
+          "Guitarra eléctrica Gibson Les Paul Standard",
+        "stock": 3,
+        "category": "Guitarras",
+        "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/229600/tokai-traditional-series-alc-62-lp-custom-style-electric-guitar-snow-white-alc-62-sw_1400x.jpg?v=637630097417270000",
+        "detalle":""
+      },
+    {
+      "id": 5,
+      "price": 250000,
+      "description":
+        "Bajo eléctrico Fender Squier Classic Precision Bass",
+      "stock": 5,
+      "category": "Bajos",
+      "image": "https://www.musimaster.com/34161-home_default/squier-classic-vibe-70s-jazz-bass-v-maple-fingerboard-natural.jpg",
+      "detalle": "dd"
+    },
+    {
+        "id": 6,
+        "price": 160000,
+        "description":
+          "Bajo eléctrico Fender Squier Affinity Jazz Bass",
+        "stock": 10,
+        "category": "Bajos",
+        "image": "https://www.heavenimagenes.com/heavencommerce/e11e0483-99c8-4ad2-b3a9-bfb26fc81402/images/v2/SQUIER/12494_medium.jpg",
+        "detalle":""
+      },
+      {
+        "id": 7,
+        "price": 115000,
+        "description":
+          "Bajo eléctrico Ibanez Sr Gio Series",
+        "stock": 2,
+        "category": "Bajos",
+        "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/225690/gsr180bk.jpg?v=637564271444530000",
+        "detalle":""
+      },
+      {
+        "id": 8,
+        "price": 170000,
+        "description":
+          "Bajo eléctrico Yamaha Trbx174",
+        "stock": 6,
+        "category": "Bajos",
+        "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/215468-1500-1500/786385-MLA31012811591_062019-F.jpg?v=637313904806430000",
+        "detalle":""
+      },
+      {
+        "id": 9,
+        "price": 830000,
+        "description":
+          "Batería Gretsch Catalina Maple 7 Cuerpos",
+        "stock": 2,
+        "category": "Baterias",
+        "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/238336-1500-1500/1.jpg?v=637951672954400000",
+        "detalle":""
+      },
+      {
+        "id": 10,
+        "price": 800000,
+        "description":
+          "Batería Pearl Master Maple Complete",
+        "stock": 5,
+        "category": "Baterias",
+        "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/210622/667455-MLA41434509221_042020-F.jpg?v=637313842293570000",
+        "detalle":""
+      },
+      {
+        "id": 11,
+        "price": 230000,
+        "description":
+          "Saxo alto Kight Eb con llave de F#",
+        "stock": 10,
+        "category": "Otros",
+        "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/220753-1500-1500/D_NQ_NP_2X_717850-MLA43417458399_092020-F.jpg?v=637369182250470000",
+        "detalle":""
+      },
+      {
+        "id": 12,
+        "price": 250000,
+        "description":
+          "Teclado Yamaha PSR Series",
+        "stock": 7,
+        "category": "Otros",
+        "image": "https://bairesrocks.vteximg.com.br/arquivos/ids/222882-1500-1500/yamaha-psr-sx600-teclado-workstation.jpg?v=637479684244030000",
+        "detalle":""
+      }
+  ]

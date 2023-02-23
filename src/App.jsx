@@ -1,17 +1,24 @@
-import ItemListContainer from "./components/ItemListContainer";
+import React from 'react';
 import NavBar from "./components/NavBar";
-import fondo from "./assets/fondo.jpg"
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import ItemListContainer from './components/ItemListContainer';
+import ItemDetailContainer from './components/ItemDetailContainer';
+import Inicio from './components/Inicio';
 
-const App = () => {
+
+function App() {
+  
   return (
-    <>
-      <NavBar />
-      <ItemListContainer greeting="Bienvenidos"/>
-      <div className="App">
-      <img id="fondo" src={fondo} alt="Carrito" />
-      </div>
-    </>
+            <BrowserRouter>
+            <NavBar />
+            <Routes>
+              <Route extact path="/" element={<Inicio />}/>
+              <Route extact path="/tienda" element={<ItemListContainer />}/>
+              <Route extact path="/category/:category" element={<ItemListContainer />}/>
+              <Route exact path="/item/:id" element={<ItemDetailContainer />} />
+            </Routes>
+            </BrowserRouter>  
   );
-};
+}
 
 export default App;
